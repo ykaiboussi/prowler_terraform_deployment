@@ -1,0 +1,6 @@
+aws_profile    = ""
+aws_region     = ""
+repository_url = ""
+image_version  = ""
+account_number = ""
+environment    = ""
